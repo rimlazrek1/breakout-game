@@ -1,5 +1,7 @@
 # Breakout Game - Java Swing
 
+This game is in french.
+
 ## Description
 
 Casse-Brique est un jeu vidéo classique développé en Java utilisant Swing pour l'interface graphique. Le joueur contrôle une raquette pour faire rebondir une balle et détruire des briques disposées en haut de l'écran. Le but est de casser toutes les briques sans laisser la balle tomber en bas de l'écran.
